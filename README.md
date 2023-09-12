@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hey there! I'm Aaron Oustrich, and this is my GitHub space where I share my coding journey, projects, and contributions. I'm passionate about programming and enjoy working on a diverse range of projects, from college assignments to personal endeavors and even some work-related stuff.
+Hey there! I'm Aaron Oustrich, and this is my GitHub space where I share my coding journey, projects, and contributions. I'm passionate about programming and enjoy working on a diverse range of projects, from college assignments to personal endeavors and even some work-related stuff too.
 
 ## About Me
 
@@ -17,16 +17,17 @@ I've seen how misleading numbers can be and how easily model predictions can bec
 
 - 💡 **Personal Projects:** I also like to experiment with my coding skills on personal projects. Expect to see everything from small utility scripts to more ambitious undertakings.
 
-- 🏢 **Work Projects:** While I'm at it, I occasionally share some of the exciting projects I'm working on in my professional life.
+- 🏢 **Work Projects:** While I'm at it, I occasionally share some of the exciting projects I'm working on at work.
 
 ## My Tech Stack
 
-I'm proficient in a range of programming languages and technologies, including but not limited to:
+I'm proficient in a range of programming languages and technologies, including:
 - R
 - Python
 - SQL
 - Domo ([MajorDomo](https://www.credly.com/badges/fb8a0591-ba74-45b8-a8d2-60b76ea65061/linked_in_profile))
 - Google Sheets & Microsoft Excel
+- Bash and CLI
 
 
 <!--- ## Highlighted Projects
