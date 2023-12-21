@@ -2,6 +2,8 @@
 
 Hey there! I'm Aaron Oustrich, and this is my GitHub space where I share my coding journey, projects, and contributions. I'm passionate about programming and enjoy working on a diverse range of projects, from college assignments to personal endeavors and even some work-related stuff too.
 
+Check out [my website](https://aoustrich.github.io)
+
 ## About Me
 
 I'm a Senior studying Statistics: Data Science at Brigham Young University, where GitHub is becoming an essential part of my academic life. I love tackling challenging problems and applying what I've learned in class to real-world projects.
@@ -42,9 +44,6 @@ Feel free to explore my repositories for more!
 ## Let's Connect
 --->
 
-I'm always up for a chat or collaboration. If you want to reach out or have any questions, you can find me on:
-- [GitHub](https://github.com/aoustrich)
+I'm always up for a chat or collaboration. If you want to reach out or have any questions, you can reach me at:
 - [LinkedIn](https://www.linkedin.com/in/aaron-oustrich/)
-- [Email](aoust16@byu.edu)
-
-
+- [Email](aaron.oustrich@gmail.com)
